@@ -1,2 +1,2 @@
-CRML_UQTR_Image_Processing_Software
+zlProjet-UQTR_CRML
 ==================
