@@ -1,0 +1,1 @@
+Cliquer sur le fichier setup.exe pour installer zLProjet (Détection et mesure de la zone de lyse).
